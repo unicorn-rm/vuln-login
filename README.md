@@ -9,3 +9,9 @@
 ```bash
 pip install flask
 python app.py
+## 🧪 Walkthrough (Step-by-Step)
+
+### 1. Запуск приложения
+
+```bash
+python app.py
