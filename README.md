@@ -15,3 +15,12 @@
 [ INIT   ] Booting vulnerable environment...
 [ LOAD   ] modules: flask, sqlite, auth
 [ STATUS ] READY
+
+$ whoami
+> unicorn-rm
+
+$ role --current
+> Cybersecurity Student
+
+$ lab --start
+> vulnerable login system loaded
