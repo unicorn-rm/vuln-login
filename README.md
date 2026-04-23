@@ -38,6 +38,7 @@ python app.py
 ```
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
 
+```bash
 🧪 ATTACK WALKTHROUGH
 [ STEP 1 ] normal login
 username: admin
@@ -50,7 +51,10 @@ password: 123
 [ STEP 3 ] SQL injection 💀
 username: admin
 password: ' OR '1'='1
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
 
+```bash
 📜 ATTACK LOG
 [LOG] admin/admin        → SUCCESS
 [LOG] admin/123          → FAIL
@@ -62,7 +66,9 @@ cursor.execute(
     (user, password)
 )
 [ STATUS ] injection blocked ✔
-
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
+```bash
 🧬 SKILLS USED
 > SQL Injection
 > Flask
@@ -70,3 +76,8 @@ cursor.execute(
 > Web Security
 > Vulnerability Analysis
 > Secure Coding
+```
+```bash
+========================================
+[ SYSTEM BREAK ]
+========================================
