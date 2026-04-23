@@ -16,7 +16,7 @@
 [ LOAD   ] modules: flask, sqlite, auth
 [ STATUS ] READY
 ```
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>$ whoami
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
 > unicorn-rm
 
 $ role --current
@@ -24,7 +24,7 @@ $ role --current
 
 $ lab --start
 > vulnerable login system loaded
-
+```bash
 ⚙️ RUN PROJECT
 pip install -r requirements.txt
 python app.py
@@ -35,6 +35,8 @@ python app.py
 🔐 Login Page
 ✔ Normal Login
 💀 SQL Injection Attack
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
 
 🧪 ATTACK WALKTHROUGH
 [ STEP 1 ] normal login
