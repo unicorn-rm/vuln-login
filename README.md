@@ -130,6 +130,22 @@ cursor.execute(
   <img src="screenshots/failsql.png" width="600"/>
 </p>
 
+📦 Installation
+
+```bash
+git clone https://github.com/unicorn-rm/vuln-login.git
+cd vuln-login
+
+python3 -m venv venv
+source venv/bin/activate   # Linux/Mac
+# venv\Scripts\activate    # Windows
+
+pip install -r requirements.txt
+▶️ Run application
+python3 app.py
+🌐 Default access
+http://127.0.0.1:5000
+
 ```bash
 ========================================
 [ SYSTEM BREAK ]
