@@ -79,6 +79,28 @@ cursor.execute(
 > Vulnerability Analysis
 > Secure Coding
 ```
+
+## 🎬 Live Demo
+
+### 1️⃣ Login Page
+<p align="center">
+  <img src="screenshots/login.png" width="600"/>
+</p>
+
+---
+
+### 2️⃣ Injection Attack
+<p align="center">
+  <img src="screenshots/hack.png" width="600"/>
+</p>
+
+---
+
+### 3️⃣ Access Granted
+<p align="center">
+  <img src="screenshots/success.png" width="600"/>
+</p>
+
 ```bash
 ========================================
 [ SYSTEM BREAK ]
