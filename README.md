@@ -15,6 +15,7 @@
 [ INIT   ] Booting vulnerable environment...
 [ LOAD   ] modules: flask, sqlite, auth
 [ STATUS ] READY
+```
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>$ whoami
 > unicorn-rm
 
