@@ -151,3 +151,18 @@ http://127.0.0.1:5000
 [ SYSTEM BREAK ]
 ========================================
 ```
+---
+
+## 🙌 Thank you for your attention
+
+Thanks for checking out this project!
+
+If you have any feedback, ideas, or suggestions — feel free to reach out or open an issue.
+
+---
+
+👤 Author: unicorn  
+🐙 GitHub: https://github.com/unicorn-rm  
+🧠 Pseudonym used across projects: unicorn  
+
+---
