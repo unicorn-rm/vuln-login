@@ -68,6 +68,8 @@ cursor.execute(
 [ STATUS ] injection blocked ✔
 ```
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
+
+
 ```bash
 🧬 SKILLS USED
 > SQL Injection
