@@ -100,6 +100,35 @@ cursor.execute(
 <p align="center">
   <img src="screenshots/success.png" width="600"/>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:333399&height=3"/>
+
+## 🎬 Live Demo Secure
+
+### 1️⃣ Login Page
+<p align="center">
+  <img src="screenshots/loginsecure.png" width="600"/>
+</p>
+
+---
+
+### 2️⃣ Secure
+<p align="center">
+  <img src="screenshots/succsec-secure.png" width="600"/>
+</p>
+
+---
+
+### 3️⃣ Attack
+<p align="center">
+  <img src="screenshots/attack.png" width="600"/>
+</p>
+
+---
+
+### 3️⃣ SQL Secure
+<p align="center">
+  <img src="screenshots/failsql.png" width="600"/>
+</p>
 
 ```bash
 ========================================
