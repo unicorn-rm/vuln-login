@@ -30,3 +30,21 @@ pip install -r requirements.txt
 python app.py
 > open http://127.0.0.1:5000
 > waiting for input...
+
+📸 DEMO
+🔐 Login Page
+✔ Normal Login
+💀 SQL Injection Attack
+
+🧪 ATTACK WALKTHROUGH
+[ STEP 1 ] normal login
+username: admin
+password: admin
+> ✔ ACCESS GRANTED
+[ STEP 2 ] wrong password
+username: admin
+password: 123
+> ❌ ACCESS DENIED
+[ STEP 3 ] SQL injection 💀
+username: admin
+password: ' OR '1'='1
