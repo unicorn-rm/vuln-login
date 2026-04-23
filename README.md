@@ -48,3 +48,23 @@ password: 123
 [ STEP 3 ] SQL injection 💀
 username: admin
 password: ' OR '1'='1
+
+📜 ATTACK LOG
+[LOG] admin/admin        → SUCCESS
+[LOG] admin/123          → FAIL
+[LOG] admin/' OR '1'='1  → SUCCESS 💀
+
+🛡️ FIX (SECURE MODE)
+cursor.execute(
+    "SELECT * FROM users WHERE username=? AND password=?",
+    (user, password)
+)
+[ STATUS ] injection blocked ✔
+
+🧬 SKILLS USED
+> SQL Injection
+> Flask
+> SQLite
+> Web Security
+> Vulnerability Analysis
+> Secure Coding
